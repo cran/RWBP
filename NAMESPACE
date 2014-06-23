@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+S3method(print,RWBP)
+S3method(plot,RWBP)
+S3method(predict,RWBP)
+S3method(RWBP,default)
+S3method(RWBP,formula)
+import(RANN, igraph, lsa, SnowballC)

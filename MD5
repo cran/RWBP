@@ -1,0 +1,12 @@
+0aa7cddf8dc5e8d59e6fa09cde82385b *DESCRIPTION
+8feacd43e62e62045e8c60b0f161f464 *NAMESPACE
+57e66b186c83a52ebebe160f0b71d38d *R/RW-BP-internal.R
+e52b9333497d7ec413d7cf0115c48262 *R/RWBP.R
+2f4acd4011d16af6c4d61e5cff98ac98 *R/RWBP.default.R
+9d2acfac9874005df366b60aab710598 *R/RWBP.formula.R
+5488a35e983deaeb25e29f58fa8f20d5 *R/plot.RWBP.R
+ea574779cb295bbfb0ee892e9aba92a6 *R/predict.RWBP.R
+cf4b59da879f902efd677c734732a264 *R/print.RWBP.R
+1f16ed56f3a60b368da6f055857b34e2 *man/RWBP-package.Rd
+e5e868e14156c1cbdfaa437ba25f90ab *man/RWBP.Rd
+204abc70b678aa5cfae820f0c0b86d07 *man/predict.RWBP.Rd
